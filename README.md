@@ -1,6 +1,6 @@
 # vue_counter
 
-> Stimmenzähler
+Mini-Stimmenzähler-App 
 
 ## Build Setup
 
