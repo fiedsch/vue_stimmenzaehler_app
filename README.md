@@ -1,6 +1,20 @@
 # vue_counter
 
-Mini-Stimmenzähler-App 
+Mini-Stimmenzähler-App
+
+Beinhaltet
+
+* Vue (http://vuejs.org/)
+* Vuex (https://vuex.vuejs.org/en/)
+* Vue Router (https://router.vuejs.org/en/)
+
+
+TODO (als weitere Demo einbauen)
+
+* AJAX-Calls mit Axios (https://github.com/mzabriskie/axios)
+* Local storage
+* progressive web app (https://developer.mozilla.org/en-US/Apps/Progressive)
+
 
 ## Build Setup
 
